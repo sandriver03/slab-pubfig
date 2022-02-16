@@ -1,4 +1,4 @@
-This package is designed to plot complex publication-ready figures composed of multiple subplots with uneven splitting of the canvas. The plotting is based on matplotlib.
+This package is designed to plot complex publication-ready figures composed of multiple subplots with uneven splitting of the canvas (one example can be seen in example/Figure_1.png). The plotting is based on matplotlib.
 
 ## Getting Started
 
@@ -6,9 +6,9 @@ This package is designed to plot complex publication-ready figures composed of m
 Python >= 3.7 with Numpy, Matplotlib
 
 ### Installation
-Install the package using the following command:
-```commandline
-   #ToDO
+Install the package using the following command from command line:
+```
+   pip install git+https://github.com/sandriver03/Slab-pubfig.git
 ```
 
 
