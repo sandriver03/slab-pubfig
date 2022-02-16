@@ -1,0 +1,11 @@
+ytick.direction: in
+xtick.direction: in
+lines.linewidth: 2.5
+figure.dpi: 200
+axes.labelsize: 14
+xtick.labelsize: 12
+ytick.labelsize: 12
+font.family: Arial
+legend.fontsize: 14
+axes.titlesize: 20
+lines.markersize: 8
