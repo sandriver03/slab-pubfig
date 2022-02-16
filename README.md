@@ -8,7 +8,7 @@ Python >= 3.7 with Numpy, Matplotlib
 ### Installation
 Install the package using the following command from command line:
 ```
-   pip install git+https://github.com/sandriver03/Slab-pubfig.git
+   pip install git+https://github.com/sandriver03/slab-pubfig.git
 ```
 
 
@@ -23,7 +23,7 @@ The `Config` module is used to define some globals and constants, e.g. where to 
 
 ## Examples
 
-Below we demonstrate the usage of the core funciton, `divide_axes`:
+Below we demonstrate the usage of the core function, `divide_axes`:
 ```
     from pubfig import divide_axes
     import matplotlib.pyplot as plt
